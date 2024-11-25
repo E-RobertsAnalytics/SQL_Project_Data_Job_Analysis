@@ -1,2 +1,7 @@
 # GitHub Project
-I published this project directly from visual studio code.
+- Introduction
+- Background
+- Tools I Used
+- The Analysis
+- What I Learned
+- Conclusions
